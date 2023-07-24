@@ -1,0 +1,42 @@
+Thumbs.db
+*.kdev4
+.user
+.directory
+resources/CMakeFiles
+*~
+*.swp
+html/
+
+# Project Files
+*.pro.user
+CMakeLists.txt.user
+CMakeLists.txt.user.*
+/.project
+/.settings
+/.idea
+cmake-build-*/
+Debug
+.cache
+
+# Build dirs
+build
+/build-*
+
+# Install dirs
+install
+/install-*
+
+# Ctags File
+tags
+
+# YouCompleteMe config stuff.
+.ycm_extra_conf.*
+
+#OSX Stuff
+.DS_Store
+
+branding/
+secrets/
+run/
+
+.vscode
