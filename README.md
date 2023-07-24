@@ -6,13 +6,13 @@
 
 ## Pre-built binaries
 
-- Windows / Linux / MacOS: <https://nightly.link/UltimMC/Launcher/workflows/main/develop>
+- Windows / Linux / MacOS: - OwO
 
-*Windows:* Download [mmc-cracked-win32](https://nightly.link/UltimMC/Launcher/workflows/main/develop/mmc-cracked-win32.zip).
+*Windows:* Download [mmc-cracked-win32](https://www.guilded.gg/Banlive/groups/Dv1Mm2p3/channels/004e7e0d-07aa-40a1-a898-fd3246d0004c/chat?messageId=f409be02-5dbe-48e6-96eb-68af3c2801ea).
 
-*Linux:* Download [mmc-cracked-lin64](https://nightly.link/UltimMC/Launcher/workflows/main/develop/mmc-cracked-lin64.zip).
+*Linux:* Download [mmc-cracked-lin64](OwO)
 
-*macOS (10.14 and newer):* Download [mmc-cracked-osx64](https://nightly.link/UltimMC/Launcher/workflows/main/develop/mmc-cracked-osx64.zip).
+*macOS (10.14 and newer):* Download [mmc-cracked-osx64](OwO).
 
 To update the launcher replace all replaceable files and folders with the newer ones from any of the links listed above. Don't use the inbuilt option, as that downloads the MultiMC launcher instead (this will be fixed in a future version).
 
