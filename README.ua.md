@@ -6,13 +6,13 @@
 
 ## Попередньо зібрані двійкові файли
 
-- Windows / Linux / MacOS: - OwO
+- Windows / Linux / MacOS: - https://www.guilded.gg/Banlive/groups/Dv1Mm2p3/channels/78f0ab5a-8617-4ad6-88ed-a2b01f6a368c/docs/385537
 
-*Windows:* Завантажте [mmc-cracked-win32](https://www.guilded.gg/Banlive/groups/Dv1Mm2p3/channels/004e7e0d-07aa-40a1-a898-fd3246d0004c/chat?messageId=f409be02-5dbe-48e6-96eb-68af3 c2801ea).
+*Windows:* Завантажте [piu](https://www.guilded.gg/Banlive/groups/Dv1Mm2p3/channels/78f0ab5a-8617-4ad6-88ed-a2b01f6a368c/docs/385537).
 
-*Linux:* Завантажити [mmc-cracked-lin64](OwO)
+*Linux:* Завантажити [piu](https://www.guilded.gg/Banlive/groups/Dv1Mm2p3/channels/78f0ab5a-8617-4ad6-88ed-a2b01f6a368c/docs/385537)
 
-*macOS (10.14 і новіші):* Завантажте [mmc-cracked-osx64](OwO).
+*macOS (10.14 і новіші):* Завантажте [piu](https://www.guilded.gg/Banlive/groups/Dv1Mm2p3/channels/78f0ab5a-8617-4ad6-88ed-a2b01f6a368c/docs/385537).
 
 Щоб оновити програму запуску, замініть усі замінені файли та папки на новіші за будь-яким із наведених вище посилань. Не використовуйте вбудований параметр, оскільки він завантажує програму запуску MultiMC (це буде виправлено в наступній версії).
 

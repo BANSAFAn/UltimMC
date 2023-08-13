@@ -8,11 +8,11 @@
 
 - Windows / Linux / MacOS: - OwO
 
-*Windows:* Download [mmc-cracked-win32](https://www.guilded.gg/Banlive/groups/Dv1Mm2p3/channels/004e7e0d-07aa-40a1-a898-fd3246d0004c/chat?messageId=f409be02-5dbe-48e6-96eb-68af3c2801ea).
+*Windows:* Download [piu](https://www.guilded.gg/Banlive/groups/Dv1Mm2p3/channels/78f0ab5a-8617-4ad6-88ed-a2b01f6a368c/docs/385537).
 
-*Linux:* Download [mmc-cracked-lin64](OwO)
+*Linux:* Download [piu](https://www.guilded.gg/Banlive/groups/Dv1Mm2p3/channels/78f0ab5a-8617-4ad6-88ed-a2b01f6a368c/docs/385537)
 
-*macOS (10.14 and newer):* Download [mmc-cracked-osx64](OwO).
+*macOS (10.14 and newer):* Download [piu](https://www.guilded.gg/Banlive/groups/Dv1Mm2p3/channels/78f0ab5a-8617-4ad6-88ed-a2b01f6a368c/docs/385537).
 
 To update the launcher replace all replaceable files and folders with the newer ones from any of the links listed above. Don't use the inbuilt option, as that downloads the MultiMC launcher instead (this will be fixed in a future version).
 
@@ -29,3 +29,5 @@ To update the launcher replace all replaceable files and folders with the newer 
 In the case you're using macOS or Linux then another additional step is to make `UltimMC` an executable by running the command `chmod +x UltimMC.app/Contents/MacOS/UltimMC` in the terminal.
 
 To remove "localhost:nnnn" or "Ely.by" from the Minecraft main menu and F3, add `-Dauthlibinjector.noShowServerName` to the Java arguments in the UltimMC settings.
+
+# by Baner

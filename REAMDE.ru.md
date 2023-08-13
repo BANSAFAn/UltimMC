@@ -6,13 +6,13 @@
 
 ## Готовые двоичные файлы
 
-- Windows/Linux/MacOS: - ОуО
+- Windows/Linux/MacOS: - https://www.guilded.gg/Banlive/groups/Dv1Mm2p3/channels/78f0ab5a-8617-4ad6-88ed-a2b01f6a368c/docs/385537
 
-*Windows:* Скачать [mmc-cracked-win32](https://www.guilded.gg/Banlive/groups/Dv1Mm2p3/channels/004e7e0d-07aa-40a1-a898-fd3246d0004c/chat?messageId=f409be02-5dbe-48e6-96eb-68af3c2 801еа).
+*Windows:* Скачать [piu](https://www.guilded.gg/Banlive/groups/Dv1Mm2p3/channels/78f0ab5a-8617-4ad6-88ed-a2b01f6a368c/docs/385537).
 
-*Linux:* Скачать [mmc-cracked-lin64](OwO)
+*Linux:* Скачать [piu](https://www.guilded.gg/Banlive/groups/Dv1Mm2p3/channels/78f0ab5a-8617-4ad6-88ed-a2b01f6a368c/docs/385537)
 
-*macOS (10.14 и новее):* Загрузите [mmc-cracked-osx64](OwO).
+*macOS (10.14 и новее):* Загрузите [piu](https://www.guilded.gg/Banlive/groups/Dv1Mm2p3/channels/78f0ab5a-8617-4ad6-88ed-a2b01f6a368c/docs/385537).
 
 Для обновления лаунчера замените все заменяемые файлы и папки на более новые по любой из ссылок, перечисленных выше. Не используйте встроенную опцию, так как вместо этого загружается программа запуска MultiMC (это будет исправлено в будущей версии).
 
